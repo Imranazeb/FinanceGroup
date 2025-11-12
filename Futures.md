@@ -21,11 +21,11 @@ date of purchase.
 
 Now lets look at MNQ. When you buy you are promising about $3,254.90 to control significant amount of money.
 
-![alt text](image.png)
+![alt text](/images/image.png)
 
 After purchasing one contract this is what the breakup looks like.
 
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 
 At the end of expiration of contract you will either take a loss be be responsible for covering the difference, or get profit on the contract.
 
