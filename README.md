@@ -18,6 +18,7 @@
 - 1) Be **respectful and courteous**: no insults, harassment, or ad hominem attacks.  
 - 2) Encourage **constructive disagreement**—healthy debate is valuable when focused on ideas, not individuals.  
 - 3) Stay **on-topic**—off-topic chatter should be kept to a minimum.
+- 4) After multiple lengthy posts, please pause to gauge direction and temperature of discussion and allow participation from others.
 
 ## e) Not Financial Advice
 - 1) All conversations are **informational only** and do not constitute professional financial advice.  
