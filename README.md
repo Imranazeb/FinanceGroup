@@ -34,5 +34,6 @@
 - 3) Avoid posting **personal or sensitive financial details** (yours or others’). If sharing account screenshots, **blur or black out balances** and other private data.
 
 ## h) Moderation, Reporting & Sanctions
-- 1) It is expected that everyone will **abide by these rules out of courtesy and respect** for fellow members.  
-- 2) If escalation is required, the process may include: **first warning → temporary mute → removal**.  
+- 1) It is expected that everyone will **abide by these rules out of courtesy and respect** for fellow members.
+  2) Gentle reminders may be given on a case by case basis. 
+- 2) If a member consistently struggles to receive feedback or responds in an overly defensive/confrontational manner, a warning may be issued. Accumulating three warnings may result in removal from the forum. Warnings expire after seven days and will reset at that time. Three consective warning will result in removal from the group. 
